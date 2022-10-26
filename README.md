@@ -1,7 +1,5 @@
-### Olá, eu sou o Alexandre Santos 👋
-
-- 🔭 Ainda não estou trabalhando na área de programação
-- 🌱 Eu estou estudando Node
+### Olá, Meu nome é Alexandre Santos 👋
+- 🌱 Estudando Node
 - 📫 alexandre_santos39@yahoo.com
 
 <div align="center">
