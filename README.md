@@ -1,5 +1,5 @@
 ### Olá, Meu nome é Alexandre Santos 👋
-- 🌱 Estudando Node
+- 🌱 Estudando o curso Desenvolvimento Web Full Stack na Digital House
 - 📫 alexandre_santos39@yahoo.com
 
 <div align="center">
